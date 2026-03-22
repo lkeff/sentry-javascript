@@ -40,7 +40,7 @@
     "@sentry/core": "8.45.0"
   },
   "devDependencies": {
-    "rollup": "^4.24.4"
+    "rollup": "^3.30.0"
   },
   "scripts": {
     "build": "run-p build:transpile build:types",
