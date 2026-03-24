@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@astrojs/internal-helpers": "^0.4.2",
-    "@astrojs/node": "^9.0.0",
+    "@astrojs/node": "^10.0.3",
     "@playwright/test": "^1.46.0",
     "@sentry-internal/test-utils": "link:../../../test-utils",
     "@sentry/astro": "^8.42.0",
